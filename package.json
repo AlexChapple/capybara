@@ -1,0 +1,22 @@
+{
+    "name": "capybara",
+    "displayName": "capybara",
+    "description": "a random theme",
+    "version": "1.0.0",
+    "publisher": "Acha",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Capybara",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Capybara-color-theme.json"
+            }
+        ]
+    }
+}
