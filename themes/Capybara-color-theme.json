@@ -19,7 +19,7 @@
 		"titleBar.activeBackground": "#282C34",
 		"list.warningForeground": "#ff853e",
 		"list.errorForeground": "#f74949",
-		"list.inactiveSelectionBackground": "#ff853e1c",
+		"list.inactiveSelectionBackground": "#5f657e6c",
 		"button.background": "#ff853e",
 		"statusBar.background": "#3c97ff",
 		"editorWidget.foreground": "#f0efeb",
