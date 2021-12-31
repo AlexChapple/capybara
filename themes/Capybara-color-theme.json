@@ -23,7 +23,8 @@
 		"button.background": "#ff853e",
 		"statusBar.background": "#3c97ff",
 		"editorWidget.foreground": "#f0efeb",
-		"input.background": "#3c97ff25"
+		"input.background": "#3c97ff25",
+		"editorIndentGuide.activeBackground": "#ff853e"
 	},
 	"tokenColors": [
 		{
