@@ -1,9 +1,19 @@
 {
     "name": "capybara",
-    "displayName": "capybara",
-    "description": "a random theme",
+    "displayName": "Capybara",
+    "description": "A random theme. Capybaras not included.",
     "version": "1.0.0",
     "publisher": "Acha",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlexChapple/capybara"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Acha",
+        "capybara"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -18,5 +28,6 @@
                 "path": "./themes/Capybara-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "images/capybara.png"
 }
