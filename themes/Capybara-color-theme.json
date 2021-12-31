@@ -24,7 +24,8 @@
 		"statusBar.background": "#3c97ff",
 		"editorWidget.foreground": "#f0efeb",
 		"input.background": "#3c97ff25",
-		"editorIndentGuide.activeBackground": "#ff853e"
+		"editorIndentGuide.activeBackground": "#ff853e",
+		"editor.lineHighlightBackground": "#cacaca10"
 	},
 	"tokenColors": [
 		{
