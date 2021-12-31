@@ -124,8 +124,9 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				// "foreground": "#d272e6"
-				"foreground": "#ff9100"
+				// "foreground": "#4da2d6"
+				"foreground": "#a1d4d4"
+				// "foreground": "#ff9100"
 			}
 		},
 		{
