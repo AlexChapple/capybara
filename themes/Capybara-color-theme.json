@@ -34,7 +34,9 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#95d8ff"
+				"foreground": "#a3e961",
+				// "foreground": "#f07167"
+				// "foreground": "#eff9ff"
 			}
 		},
 		{
@@ -74,7 +76,9 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ff853e",
+				// "foreground": "#ff853e",
+				"foreground": "#64acff",
+				// "foreground": "#86d67f"
 			}
 		},
 		{
@@ -94,7 +98,9 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#86d67f"
+				// "foreground": "#86d67f",
+				"foreground": "#64acff",
+				// "foreground": "#ff853e"
 			}
 		},
 		{
@@ -118,7 +124,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e979ff"
+				// "foreground": "#d272e6"
+				"foreground": "#ff9100"
 			}
 		},
 		{
@@ -153,8 +160,11 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#3c97ff"
-			}
+				// "foreground": "#3c97ff",
+				// "foreground": "#64acff",
+				// "foreground": "#86d67f",
+				// "foreground": "#ff853e"	
+				"foreground": "#f07167"}
 		},
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
