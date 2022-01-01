@@ -48,7 +48,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#9c8181"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#e70303"
+				"foreground": "#a3ceff"
 			}
 		},
 		{
