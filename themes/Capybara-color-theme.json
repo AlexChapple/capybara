@@ -656,5 +656,9 @@
 				"foreground": "#EEFFFF"
 			}
 		}
-	]
+	],
+	"workbench.colorCustomizations": {
+		"terminal.background": "#282C34",
+		"terminal.foreground": "#f0efeb"
+	}
 }
